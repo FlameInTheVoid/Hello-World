@@ -1,2 +1,3 @@
-# Hello-World
-Tutorial repository
+Hello-World
+
+Just following the tutorial to familiarize myself with Git.
